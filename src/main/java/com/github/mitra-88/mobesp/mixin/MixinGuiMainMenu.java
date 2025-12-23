@@ -1,4 +1,4 @@
-package com.example.mixin;
+package com.github.mitra-88.mobesp.mixin;
 
 import net.minecraft.client.gui.GuiMainMenu;
 import org.spongepowered.asm.mixin.Mixin;

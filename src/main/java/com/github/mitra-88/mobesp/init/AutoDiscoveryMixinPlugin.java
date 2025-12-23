@@ -1,4 +1,4 @@
-package com.example.init;
+package com.github.mitra-88.mobesp.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
